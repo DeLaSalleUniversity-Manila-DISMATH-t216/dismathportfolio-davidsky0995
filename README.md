@@ -9,7 +9,9 @@ more on real life situations.
 
 #Week 2
 
--I learned that quantifiers are existential if there is an x that will make the function P(x) true and Universal if all x makes P(x) true.
+-I learned that quantifiers are existential if there is an x that will make the function P(x) true.
+
+-Quantifier is Universal if all x makes P(x) true.
 
 -I also studied proving and I practiced proving with logical equivalences and laws from identity laws to absorption laws.
 
@@ -28,3 +30,11 @@ more on real life situations.
 -When disproving something, all you need is a counter example. 
 
 -Recursive is a detailed definition for a certain equation or function.
+
+#Week 5
+
+-Recursive goes back to the previous equation to answer the current equation.
+
+-There are two steps in Mathematical Induction:
+* Basis rule (It's like substitution to show that the equation used is valid and applicable.)
+* Induction (Actually showing that the two equaitons are equal by manipulating the equations to make the left and rights side equal.
