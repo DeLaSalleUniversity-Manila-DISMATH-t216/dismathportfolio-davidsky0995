@@ -38,10 +38,14 @@ more on real life situations.
 -Recursive algorithm solves a problem by reducing it to the same problem with smaller input.
 
 -There are two steps in Mathematical Induction:
+
 * Basis rule (It's like substitution to show that the equation used is valid and applicable.)
 * Induction (Actually showing that the two equaitons are equal by manipulating the equations to make the left and rights side equal.
 
 *Set - An unordered collention of distinct objects.
+
 *Subset - A set B within a set S. [S={{B}}]
+
 *Power Set - The set of all subsets of the main set.
+
 *Cardinality - Number of elements a set contains.
