@@ -7,6 +7,8 @@ more on real life situations.
 
 -I also learned how to use the truth table as a tool for proving statements.
 
+-The relationship of the logical euqivalences that can be further used to prove statements.
+
 #Week 2
 
 -I learned that quantifiers are existential if there is an x that will make the function P(x) true.
@@ -15,11 +17,14 @@ more on real life situations.
 
 -I also studied proving and I practiced proving with logical equivalences and laws from identity laws to absorption laws.
 
+-p implies q = NOT p OR q
+
 #Week 3
 
 -I learned how to use proving statements using direct logic, contraposition (indirect) and contradiction. 
 
 -I learned that you can use rules on inference to prove statements with their equivalences.
+
 
 #Week 4
 
@@ -42,6 +47,12 @@ more on real life situations.
 * Basis rule (It's like substitution to show that the equation used is valid and applicable.)
 * Induction (Actually showing that the two equaitons are equal by manipulating the equations to make the left and rights side equal.
 
+
+
+#Week 6
+
+-Set Thery was introduced 
+
 *Set - An unordered collention of distinct objects.
 
 *Subset - A set B within a set S. [S={{B}}]
@@ -49,3 +60,7 @@ more on real life situations.
 *Power Set - The set of all subsets of the main set.
 
 *Cardinality - Number of elements a set contains.
+
+#Week 7
+
+-There were was a review for quiz 1.
