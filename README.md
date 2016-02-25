@@ -28,6 +28,22 @@ more on real life situations.
 
 #Week 4
 
+-This week we learned a method on how to construct proofs which is called Methods of Proof
+
+-Under Methods of Proof there are several ways on proving logical statemetns which are:
+
+-Direct Proof
+
+-Proof by Contraposition (Indirect)
+
+-Vacuous and Trivial Proof
+
+-Proof by Contradiction (Indirect)
+
+-Proof by Equivalence
+
+-Mathematical Induction
+
 -Mathematical induction was familiar to me, but the lesson was more detailed and I learned that there are detailed steps like the basis step and indution step.
 
 -The basis step is needed for validity of the equation to be used. 
@@ -51,7 +67,7 @@ more on real life situations.
 
 #Week 6
 
--Set Thery was introduced 
+-Set Theory was introduced 
 
 *Set - An unordered collention of distinct objects.
 
@@ -63,4 +79,6 @@ more on real life situations.
 
 #Week 7
 
--There were was a review for quiz 1.
+-There was a review for quiz 1.
+
+-We were taught how to create and use the "Hello World" application.
